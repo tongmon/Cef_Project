@@ -301,7 +301,7 @@ void CCEFmultiprocessApp::OnAppAbout()
 	*/
 
 	// 경로 알맞게 바꾸셈
-	DoExternalModal(m_pMainWnd->m_hWnd, "C:\\Users\\DP91-HSK\\source\\repos\\CEF_multiprocess\\CEF_EXE\\cefsimple.exe");
+	DoExternalModal(m_pMainWnd->m_hWnd, "C:\\Users\\tongm\\OneDrive\\Documents\\GitHub\\Cef_Project\\Codes\\CEF_Multiprocess\\CEF_EXE\\cefsimple.exe");
 }
 
 // CCEFmultiprocessApp 메시지 처리기
